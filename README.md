@@ -23,6 +23,7 @@ udev 是一个为你的计算机提供设备事件的 Linux 子系统。udev 是
 
 - gitee @overweight
 - email hexiaowen@huawei.com
+- wechat xiaowen_he
 
 ## 难度
 
